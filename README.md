@@ -1,4 +1,6 @@
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=BKIslem&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BKIslem&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi developer 👋
 
 ✨ _Ben Khaled Islem_ ✨
