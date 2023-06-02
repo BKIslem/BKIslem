@@ -1,4 +1,4 @@
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=BKIslem)](https://github.com/anuraghazra/github-readme-stats)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=BKIslem&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi developer 👋
 
 ✨ _Ben Khaled Islem_ ✨
