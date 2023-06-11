@@ -6,7 +6,7 @@
 ✨ _Ben Khaled Islem_ ✨
  
 lthough beginner in development, I'm ready to learn, and to perfect my experiment. 
-I knew how to put in practice, what I had learned during my formation also from google,youtube,github etc..
+I knew how to put in practice, what I had learned during my formation also from net.
 
 
 💬 About Me 
